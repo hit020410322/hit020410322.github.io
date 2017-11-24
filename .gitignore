@@ -2,3 +2,4 @@ _site/
 etach/
 .DS_Store
 */.DS_Store
+.sass-cache/*
